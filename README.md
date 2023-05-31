@@ -1,3 +1,8 @@
+# EDITED BY ASPELL WITH LOVE ❤ #
+
+
+
+
 # 🐝 W4SP Stealer 🐝
 ⚠️ Official Repo (loTus04/WS4P-Stealer) got termed, this is a clone approuved by lotus ⚠️ <br><br>
 w4sp Stealer official source code, one of the best python stealer on the web<br>
